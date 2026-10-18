@@ -16,3 +16,9 @@
 local.properties
 .env
 debug.keystore
+
+# Node / Web build
+node_modules/
+dist/
+.npm/
+
